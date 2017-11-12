@@ -1,0 +1,24 @@
+
+H112
+CA:					NY:
+V - 0.24			V - 0.36
+Dem Peak - 1.05		Dem Peak - 1.38
+Rep Peak - 0.56		Rep Peak - 0.57
+
+H113
+CA:					NY:
+V - 0.20			V - 0.32
+Dem Peak - 1.25		Dem Peak - 1.76
+Rep Peak - 0.45		Rep Peak - 0.51
+
+H114
+CA:					NY:
+V - 0.19			V - 0.39
+Dem Peak - 1.36		Dem Peak - 1.74
+Rep Peak - 0.45		Rep Peak - 0.72
+
+H115
+CA:					NY:
+V - 0.20			V - 0.40
+Dem Peak - 1.31		Dem Peak - 1.25
+Rep Peak - 0.46		Rep Peak - 0.73
